@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning web development.
+- 🔭 I’m currently working on web projects.
+
 <!--
 **shwan26/shwan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
