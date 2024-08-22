@@ -25,19 +25,22 @@ jobs:
     - uses: Platane/snk@v3
       id: snake-gif
       with:
-        github_user_name: shwan26
+        github_user_name: ${{ github.repository_owner }}
         # Check the action documentation for supported inputs
 
     # Show the status of the build. Makes it easier for debugging (if there's any issues).
     - run: git status
 
-    # Push the changes
-    - name: Push changes
-      uses: gittools/actions/git-versioning@v0.12.0
+    # Commit and push changes
+    - name: Commit and push changes
+      uses: endbug/add-and-commit@v7
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
-        force: true
+        author_name: 'github-actions'
+        author_email: 'github-actions@users.noreply.github.com'
+        message: 'Update contribution graph'
+        add: 'dist/*'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
