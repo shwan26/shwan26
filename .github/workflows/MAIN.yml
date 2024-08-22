@@ -25,15 +25,15 @@ jobs:
     - uses: Platane/snk@v3
       id: snake-gif
       with:
-        github_user_name: ${{ github.repository_owner }}
-        # Ensure to check the latest action documentation for supported inputs
+        github_user_name: shwan26
+        # Check the action documentation for supported inputs
 
     # Show the status of the build. Makes it easier for debugging (if there's any issues).
     - run: git status
 
     # Push the changes
     - name: Push changes
-      uses: ad-m/github-push-action@v0.7.0
+      uses: gittools/actions/git-versioning@v0.12.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: master
