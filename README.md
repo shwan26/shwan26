@@ -1,9 +1,9 @@
-/<h1 align="center">Hi 👋, I'm Shwan</h1>
-<h3 align="center">A passionate software developer</h3>
+/<h1 align="left">Hi 👋, I'm Shwan</h1>
+<h3 align="left">A passionate software developer</h3>
 
 - 🌱 I’m currently learning **web application and iOS application development.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
