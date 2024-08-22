@@ -26,16 +26,15 @@ jobs:
       id: snake-gif
       with:
         github_user_name: ${{ github.repository_owner }}
-        # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-        gif_out_path: dist/github-contribution-grid-snake.gif
-        svg_out_path: dist/github-contribution-grid-snake.svg
+        # The action doesn't support gif_out_path and svg_out_path as inputs.
+        # You should review the action documentation for available options.
 
     # Show the status of the build. Makes it easier for debugging (if there's any issues).
     - run: git status
 
     # Push the changes
     - name: Push changes
-      uses: ad-m/github-push-action@v0.6.0
+      uses: ad-m/github-push-action@v0.7.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: master
