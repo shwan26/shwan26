@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Shwan</h1>
+<h1 align="left">Hi 👋, I'm Shwan Myat Nay Chi. </h1>
 <h3 align="left">A passionate software developer</h3>
 
 - 🌱 I’m currently learning **web application and iOS application development.**
