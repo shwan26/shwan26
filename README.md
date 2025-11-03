@@ -9,8 +9,6 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwan26&show_icons=true&locale=en&layout=compact" alt="shwan26" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwan26&show_icons=true&locale=en" alt="shwan26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwan26&" alt="shwan26" /></p>
