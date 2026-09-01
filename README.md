@@ -29,6 +29,7 @@ A real-time quiz platform for interactive learning, featuring live multiplayer g
 A project management application designed to organize projects, tasks, and team collaboration.
 `TypeScript` · `Web Development`
 🔗 [Live Demo](https://oneboard.shwan.me/)
+
 ---
 
 ### 🛠️ Technologies
