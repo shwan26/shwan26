@@ -70,8 +70,8 @@ An e-commerce application for managing and presenting products.
 I'm open to internship opportunities, interesting projects, and conversations about software development.
 
 - 💼 [LinkedIn](#)
-- 🌐 [Portfolio](shwan.me)
-- 📧 [Email](shwanmyatnaychi@gmail.com)
+- 🌐 [Portfolio]([shwan.me](https://www.shwan.me/))
+- 📧 [Email]([shwanmyatnaychi@gmail.com])
 
 <p align="center">
 <i>Build useful things. Keep learning. Ship often.</i>
