@@ -25,15 +25,10 @@ A real-time quiz platform for interactive learning, featuring live multiplayer g
 `TypeScript` · `Next.js` · `Socket.IO` · `Supabase`
 🔗 [Live Demo](https://gamorax.app)
 
-#### 🧾 [SabaiB](#)
-A mobile application for scanning Thai restaurant bills, splitting expenses with friends, and settling payments.
-`Kotlin` · `Android` · `OCR` · `PromptPay`
-🔗 [Android Repository](#) · [Web](#)
-
-#### 📋 [Oneboard](#)
+#### 📋 [Oneboard](https://github.com/shwan26/oneboard)
 A project management application designed to organize projects, tasks, and team collaboration.
 `TypeScript` · `Web Development`
-
+🔗 [Live Demo](https://oneboard.shwan.me/)
 ---
 
 ### 🛠️ Technologies
@@ -62,7 +57,7 @@ A project management application designed to organize projects, tasks, and team 
 
 I'm open to internship opportunities, interesting projects, and conversations about software development.
 
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://linkedin.com/in/shwan-myat-nay-chi)
 - 🌐 [Portfolio](https://www.shwan.me/)
 - 📧 [Email](mailto:shwanmyatnaychi@gmail.com)
 
