@@ -1,9 +1,8 @@
-<h1 align="center">Hey, I'm Shwan 👋</h1>
-<p align="center">
+<h1 align="left">Hey, I'm Shwan 👋</h1>
+<p align="left">
 Software Developer · Full-Stack · Problem Solver
 </p>
-
-<p align="center">
+<p align="left">
 I build practical software with a focus on clean interfaces, useful products, and reliable systems.<br/>
 Currently looking for a <b>Software Engineering / IT Internship</b> starting <b>October 2026</b>.
 </p>
@@ -11,24 +10,22 @@ Currently looking for a <b>Software Engineering / IT Internship</b> starting <b>
 ---
 
 ### 🧩 What I Build
-
 ```text
 Web Applications  →  APIs & Backend  →  Databases
        ↓                    ↓                ↓
  React / TypeScript    Node.js / PHP        SQL
 ```
-
 I enjoy turning ideas into working products — from the interface users interact with to the systems running behind it.
 
 ---
 
 ### 🚀 Selected Work
 
-**[Oneboard](#)**
+**[Oneboard](https://oneboard.shwan.me/)**
 A project management application focused on organizing work and collaboration.
 `TypeScript` `React` `Node.js`
 
-**[Gamorax](#)**
+**[Gamorax](https://gamorax.app/)**
 An interactive web application built with a focus on user experience.
 `TypeScript` `Web Development`
 
@@ -36,12 +33,11 @@ An interactive web application built with a focus on user experience.
 An e-commerce application for managing and presenting products.
 `PHP` `JavaScript` `SQL`
 
-→ [View all repositories](#)
+→ [View all repositories](https://github.com/shwan26?tab=repositories)
 
 ---
 
 ### ⚙️ Technologies & Tools
-
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
@@ -56,7 +52,6 @@ An e-commerce application for managing and presenting products.
 ---
 
 ### 🌱 Currently Learning
-
 - Software Architecture
 - Testing & Clean Code
 - Backend Development
@@ -66,13 +61,12 @@ An e-commerce application for managing and presenting products.
 ---
 
 ### 📬 Let's Connect
-
 I'm open to internship opportunities, interesting projects, and conversations about software development.
 
 - 💼 [LinkedIn](#)
-- 🌐 [Portfolio]([shwan.me](https://www.shwan.me/))
-- 📧 [Email]([shwanmyatnaychi@gmail.com])
+- 🌐 [Portfolio](https://www.shwan.me/)
+- 📧 [Email](mailto:shwanmyatnaychi@gmail.com)
 
-<p align="center">
+<p align="left">
 <i>Build useful things. Keep learning. Ship often.</i>
 </p>
