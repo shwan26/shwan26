@@ -3,7 +3,6 @@
 
 <p align="center">
 I build practical software with a focus on useful products, clean interfaces, and reliable systems.<br/>
-Currently seeking a <b>Software Engineering / IT Internship</b> starting <b>October 2026</b>.
 </p>
 
 ---
