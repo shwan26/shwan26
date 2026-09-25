@@ -3,7 +3,7 @@
 Full-stack developer in Bangkok, graduating in Information Technology (Software Engineering) from Assumption University in November 2026.
 I build web apps end to end: React/Next.js frontends, Node.js APIs, PostgreSQL/Supabase data and real-time features with Socket.IO.
 
-**Open to full-stack / frontend developer roles from late October 2026** · [shwan.me](https://www.shwan.me) · [LinkedIn](https://www.linkedin.com/in/shwan-myat-nay-chi/) · shwanmyat.nc@gmail.com
+**Open to full-stack / frontend developer roles from late October 2026** · [shwan.me](https://www.shwan.me) · [LinkedIn](https://www.linkedin.com/in/shwan-myat-nay-chi/) 
 
 ---
 
