@@ -18,9 +18,9 @@ I build web apps end to end: React/Next.js frontends, Node.js APIs, PostgreSQL/S
 
 #### Tech
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS
-**Backend:** Node.js, Express, REST APIs, Socket.IO, JWT
-**Data & cloud:** PostgreSQL, Prisma, Supabase, MongoDB, AWS, Vercel
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS </br>
+**Backend:** Node.js, Express, REST APIs, Socket.IO, JWT </br>
+**Data & cloud:** PostgreSQL, Prisma, Supabase, MongoDB, AWS, Vercel </br>
 **Mobile:** Kotlin, Jetpack Compose
 
 Languages: English · Burmese · Mandarin (HSK 3) · basic Thai
